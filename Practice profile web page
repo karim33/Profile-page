@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+  <title>Welcome</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://hdwallpaperia.com/wp-content/uploads/2013/11/Colorful-Desktop-Background.jpg");
+      background-size:cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size:11px;
+    }
+    input {
+      border:0;
+      padding:10px;
+      font-size:18px;
+    }
+input[type="submit"] {
+  background:red;
+  color:white;
+}
+span {
+  color:red;
+  font-family:Ar Blanca;
+}
+
+  </style>
+</head>
+<body>
+<div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Vector_cup_of_coffee.svg/120px-Vector_cup_of_coffee.svg.png">
+</div>
+  <h1>TELL ME and I <span> Forget.</span> TEACH ME and I <span>Remember.</span> Invove me I <span>Learn.</span>
+  <p>BENJAMIN FRANKLIN</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
